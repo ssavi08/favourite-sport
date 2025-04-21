@@ -2,7 +2,7 @@ import React from "react";
 import img1 from './assets/images/hrv.jpeg';
 import img2 from './assets/images/hrv2.jpg';
 import img3 from './assets/images/barca.png';
-import img4 from './assets/images/kids.jpg';
+import img4 from './assets/images/kids.bmp';
 
 const imgStyle = {
   width: '95%',
